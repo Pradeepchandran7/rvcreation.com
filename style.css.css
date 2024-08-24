@@ -1,0 +1,23 @@
+*div{
+    display: inline;
+    height: 100px;
+    padding: 20px;
+    margin: 25px;
+
+}
+h4{
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    cursor: pointer;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+
+}
+a:hover{
+    background-color: aqua;
+    color:red;
+}
